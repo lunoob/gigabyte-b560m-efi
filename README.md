@@ -1,6 +1,6 @@
 # gigabyte-b560m-efi
 
-hacknitosh EFI, 纯手配置，非搬运。自用维护
+hackintosh EFI, 纯手配置，非搬运。自用维护
 
 ## 配置
 
